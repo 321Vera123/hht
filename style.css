@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: rgba(129, 54, 151, 0.726);
+    background-color: rgba(176, 191, 236, 0.568);
+    
+}
+
+.fff {
+    color: white;
+}
+
+table {
+    border-bottom: tomato;
+    font-size: large;
+    
+}
+
+p img{
+    width: 90px;
+    height: 90px;
+}
+
+p{
+    border:2px solid rgba(176, 125, 199, 0.733);
+    border-radius:;
+    background-color: rgba(153, 175, 224, 0.5);
+}
